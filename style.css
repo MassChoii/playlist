@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Candal&family=Oswald:wght@200..700&family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Annie+Use+Your+Telescope&family=Shadows+Into+Light&display=swap');
 
 body {
   background-color: lightgreen;
@@ -7,6 +7,7 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  padding: 12px;
 }
 
 .container {
@@ -30,6 +31,16 @@ body {
   align-items: flex-start;
 }
 
+.judul h1 {
+  font-family: "Shadows Into Light", cursive;
+  margin: 0;
+}
+
+.judul p {
+  font-family: "Shadows Into Light", cursive;
+  font-size: 18px;
+  margin-top: 0;
+}
 
 .box {
   height: 500px;
@@ -310,7 +321,7 @@ i.fa-step-backward {
   max-width: 300px;
   width: 80%;
   position: relative;
-  font-size: 10px;
+  font-size: 13px;
 }
 
 .modal-content {
@@ -346,6 +357,13 @@ i.fa-step-backward {
     align-items: center;
   }
 
+  .judul {
+    height: 60vh;
+    align-items: center;
+    text-align: center;
+    padding-left: 0;
+    margin-left: 0;
+  }
   .box {
     width: 80%;
   }
