@@ -45,13 +45,13 @@ let track_list = [
   {
     name: "Here Whit Me",
     artist: "D4VD",
-    image: "Here Whit me.jpeg",
+    image: "HereWhitme.jpeg",
     path: "Here Whit me.mp3",
   },
   {
     name: "About You",
     artist: "The 1975",
-    image: "about you.jpeg",
+    image: "aboutyou.jpeg",
     path: "About You.mp3",
   },
 ];
