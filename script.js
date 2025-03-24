@@ -50,8 +50,8 @@ let track_list = [
   },
   {
     name: "About You",
-    artist: "1975",
-    image: "about you.jpg",
+    artist: "The 1975",
+    image: "about you.jpeg",
     path: "About You.mp3",
   },
 ];
