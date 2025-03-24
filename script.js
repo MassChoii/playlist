@@ -45,7 +45,7 @@ let track_list = [
   {
     name: "Here Whit Me",
     artist: "D4VD",
-    image: "HereWhitme.jpeg",
+    image: "Herewhitme.jpeg",
     path: "Here Whit me.mp3",
   },
   {
