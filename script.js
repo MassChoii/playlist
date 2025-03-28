@@ -32,7 +32,7 @@ let curr_track = document.createElement("audio");
 let track_list = [
   {
     name: "Blue",
-    artist: "Yun Kai",
+    artist: "Yung Kai",
     image: "Blue.jpg",
     path: "blue.mp3",
   },
